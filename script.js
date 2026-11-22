@@ -1,7 +1,7 @@
 /* ===== EDIT THESE ===== */
 const NAME = "Olajuwon";
 const EMAIL = "juwondev13@gmail.com";
-const WHATSAPP = "08101893379";   // country code first, no + or spaces
+const WHATSAPP = "2348101893379";   // country code first, no + or spaces
 const GITHUB = "https://github.com/juwondev13-sys";
 
 /* Your projects. status must be "Completed", "Ongoing" or "Planned".
